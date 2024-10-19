@@ -4,7 +4,7 @@ import socket
 
 
 # Define the IP address and port to connect to
-ip = '192.168.89.116'
+ip = ''
 port = 8080
 
 # Create a socket object
